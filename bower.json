@@ -1,0 +1,14 @@
+{
+  "name": "Homework_game",
+  "homepage": "https://github.com/yanaIvanova3/Duck-and-jump",
+  "authors": [
+    "Yana Ivanova <y.m.ivanova23@gmail.com>"
+  ],
+  "description": "JS homework game",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
