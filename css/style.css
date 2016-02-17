@@ -2,7 +2,7 @@
 
 #stage {
 	min-height: 320px;
-	border: 1px solid red;
+	border: 1px solid #000000;
 	position: relative;
 }
 
@@ -11,6 +11,6 @@
 	bottom: 20px;
 	width: 75px;
 	height: 210px;
-	background-color: green;
+	background-color: #8c8c8c;
 	left: 100px;
 }
